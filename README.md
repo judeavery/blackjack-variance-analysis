@@ -1,16 +1,16 @@
 # Blackjack Variance Analysis (In Progress)
 
 ## Project Overview
-This project explores **risk, variance, and expectation in blackjack** using large-scale simulation.  
+This project explores risk, variance, and expectation in blackjack using large-scale simulation.  
 Rather than asking whether blackjack can be “beaten,” the goal is to understand **why even optimal play can feel unfair** due to variance, long losing streaks, and bankroll constraints.
 
 The project focuses on simulating realistic casino rules and player behavior to quantify:
 - Expected value (EV)
 - Volatility and downswings
 - Risk of ruin
-- The difference between *mathematical edge* and *lived experience*
+- The difference between mathematical edge and lived experience
 
-This repository is **actively under development** and results will evolve as the simulation engine and experiments are completed.
+This repository is actively under development and results will evolve as the simulation engine and experiments are completed.
 
 ---
 
@@ -20,7 +20,7 @@ Blackjack is a rare real-world system where:
 - Optimal strategy is known
 - Outcomes still feel unpredictable to humans
 
-Even when players use perfect basic strategy or card counting, large downswings and long losing streaks are common. This project aims to **quantify that disconnect** and explain why intuition often fails in high-variance environments.
+Even when players use perfect basic strategy or card counting, large downswings and long losing streaks are common. This project aims to quantify that disconnect and explain why intuition often fails in high-variance environments.
 
 ---
 
@@ -76,7 +76,7 @@ The final project will include:
 
 
 ## How to Run (Coming Soon)
-The project will be run primarily in **Google Colab**.  
+The project will be run primarily in Google Colab.  
 Instructions for reproducing simulations and results will be added once the core pipeline is complete.
 
 Author - Jude Avery, B.S. Data Science
