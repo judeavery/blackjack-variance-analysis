@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project explores risk, variance, and expectation in blackjack using large-scale simulation.  
-Rather than asking whether blackjack can be “beaten,” the goal is to understand **why even optimal play can feel unfair** due to variance, long losing streaks, and bankroll constraints.
+Rather than asking whether blackjack can be “beaten,” the goal is to understand why even optimal play can feel unfair due to variance, long losing streaks, and bankroll constraints.
 
 The project focuses on simulating realistic casino rules and player behavior to quantify:
 - Expected value (EV)
