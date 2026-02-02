@@ -75,3 +75,9 @@ The final project will include:
 -TBD
 
 
+## How to Run (Coming Soon)
+The project will be run primarily in **Google Colab**.  
+Instructions for reproducing simulations and results will be added once the core pipeline is complete.
+
+Author - Jude Avery, B.S. Data Science
+
